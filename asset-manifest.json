@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zodiac-shuffle/static/css/main.24f3df58.chunk.css",
+    "main.js": "/zodiac-shuffle/static/js/main.647375c6.chunk.js",
+    "main.js.map": "/zodiac-shuffle/static/js/main.647375c6.chunk.js.map",
+    "runtime~main.js": "/zodiac-shuffle/static/js/runtime~main.02f0ebc5.js",
+    "runtime~main.js.map": "/zodiac-shuffle/static/js/runtime~main.02f0ebc5.js.map",
+    "static/js/2.884c28c3.chunk.js": "/zodiac-shuffle/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/zodiac-shuffle/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/zodiac-shuffle/index.html",
+    "precache-manifest.45c5d5b8a53a2ac8571c15d7345c2150.js": "/zodiac-shuffle/precache-manifest.45c5d5b8a53a2ac8571c15d7345c2150.js",
+    "service-worker.js": "/zodiac-shuffle/service-worker.js",
+    "static/css/main.24f3df58.chunk.css.map": "/zodiac-shuffle/static/css/main.24f3df58.chunk.css.map",
+    "static/media/Header.css": "/zodiac-shuffle/static/media/marble.5275c568.png"
+  }
+}
