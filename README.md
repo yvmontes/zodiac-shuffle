@@ -1,4 +1,4 @@
-# Zodiac Shuffle <img src="/src/images/zodiacshuffle-screen" width="850"> 
+# Zodiac Shuffle <img src="/src/images/zodiacshuffle-screen.png" width="850"> 
 <br/>
 There are 12 different images, click on each image once to win the game. <br/> 
 If you click the same image twice you lose the game.<br/> 
