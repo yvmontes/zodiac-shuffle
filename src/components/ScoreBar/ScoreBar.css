@@ -1,0 +1,11 @@
+.score-bar {
+    padding: 2px 0px;
+    /* color: black; */
+    background-color: #89728c;
+    margin-bottom: 15px;
+}
+
+.score-bar > h3 {
+    color: white;
+    font-family: 'geneva'
+}

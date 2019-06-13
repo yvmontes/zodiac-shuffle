@@ -1,0 +1,18 @@
+.jumbotron {
+    margin-bottom: 0px;
+    color: #606389;
+    /* background-image: url(../../images/marble.png); */
+    /* background-repeat: repeat; */
+    padding: 30px 0px;
+    background: url(../../images/marble.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+header > h1 {
+    /* color: #5d7d92; */
+    color: #89728c;
+    font-family: 'Raleway'
+}
